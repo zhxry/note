@@ -1,2 +1,1 @@
-# note
-Karnage's Notebook
+# Karnage's Notebook
